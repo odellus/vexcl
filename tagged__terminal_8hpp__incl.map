@@ -1,0 +1,15 @@
+<map id="vexcl/tagged_terminal.hpp" name="vexcl/tagged_terminal.hpp">
+<area shape="rect" id="node7" href="$operations_8hpp.html" title="Templates used for expression tree traversal and kernel generation. " alt="" coords="1521,80,1675,107"/>
+<area shape="rect" id="node15" href="$backend_8hpp.html" title="Compile&#45;time selection of backend (OpenCL/CUDA). " alt="" coords="1254,155,1393,181"/>
+<area shape="rect" id="node35" href="$types_8hpp.html" title="Support for using native C++ and OpenCL types in expressions. " alt="" coords="1281,403,1401,429"/>
+<area shape="rect" id="node41" href="$util_8hpp.html" title="OpenCL general utilities. " alt="" coords="1777,403,1881,429"/>
+<area shape="rect" id="node16" href="$opencl_8hpp.html" title="OpenCL backend for compute kernel generation/compilation/launching. " alt="" coords="432,229,619,256"/>
+<area shape="rect" id="node18" href="$opencl_2error_8hpp.html" title="Output OpenCL errors to a std::stream. " alt="" coords="613,395,771,437"/>
+<area shape="rect" id="node20" href="$opencl_2context_8hpp.html" title="OpenCL device enumeration and context initialization. " alt="" coords="430,395,588,437"/>
+<area shape="rect" id="node21" href="$opencl_2filter_8hpp.html" title="Device filters for OpenCL backend. " alt="" coords="847,395,1005,437"/>
+<area shape="rect" id="node28" href="$opencl_2device__vector_8hpp.html" title="OpenCL device vector. " alt="" coords="94,305,252,346"/>
+<area shape="rect" id="node29" href="$opencl_2source_8hpp.html" title="Helper class for OpenCL source code generation. " alt="" coords="1073,305,1231,346"/>
+<area shape="rect" id="node39" href="$opencl_2compiler_8hpp.html" title="OpenCL source code compilation wrapper. " alt="" coords="145,395,303,437"/>
+<area shape="rect" id="node40" href="$opencl_2kernel_8hpp.html" title="An abstraction over OpenCL compute kernel. " alt="" coords="329,305,487,346"/>
+<area shape="rect" id="node31" href="$common_8hpp.html" title="Common backend utilities. " alt="" coords="555,493,756,520"/>
+</map>

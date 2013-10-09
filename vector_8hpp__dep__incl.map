@@ -1,0 +1,19 @@
+<map id="vexcl/vector.hpp" name="vexcl/vector.hpp">
+<area shape="rect" id="node2" href="$plan_8hpp.html" title="FFT plan, stores kernels and buffers for one configuration. " alt="" coords="5,81,163,122"/>
+<area shape="rect" id="node3" href="$backend_2opencl_2fft_8hpp.html" title="Fast Fourier Transformation. " alt="" coords="55,171,213,213"/>
+<area shape="rect" id="node5" href="$vexcl_8hpp.html" title="Vector expression template library for OpenCL. " alt="" coords="1023,336,1141,363"/>
+<area shape="rect" id="node6" href="$boost__compute_8hpp.html" title="Provides wrappers for some of Boost.Compute (https://github.com/kylelutz/compute) algorithms..." alt="" coords="290,171,440,213"/>
+<area shape="rect" id="node7" href="$sort_8hpp.html" title="Sorting algorithms. " alt="" coords="513,88,623,115"/>
+<area shape="rect" id="node8" href="$clogs_8hpp.html" title="Enables use of CLOGS (http://clogs.sourceforge.net) primitives. " alt="" coords="517,179,691,205"/>
+<area shape="rect" id="node9" href="$gather_8hpp.html" title="Gather scattered points from OpenCL device vector. " alt="" coords="715,179,841,205"/>
+<area shape="rect" id="node10" href="$vector__view_8hpp.html" title="Provides sub&#45;view for an existing vex::vector. " alt="" coords="817,88,975,115"/>
+<area shape="rect" id="node11" href="$multi__array_8hpp.html" title="An analog of boost::multi_array. " alt="" coords="918,179,1073,205"/>
+<area shape="rect" id="node12" href="$spmat_8hpp.html" title="OpenCL sparse matrix. " alt="" coords="1098,179,1224,205"/>
+<area shape="rect" id="node13" href="$generator_8hpp.html" title="OpenCL kernel generator. " alt="" coords="1065,261,1212,288"/>
+<area shape="rect" id="node14" href="$multivector_8hpp.html" title="OpenCL device multi&#45;vector. " alt="" coords="1237,261,1395,288"/>
+<area shape="rect" id="node15" href="$reduce__by__key_8hpp.html" title="Reduce by key algortihm. " alt="" coords="1351,179,1529,205"/>
+<area shape="rect" id="node16" href="$scan_8hpp.html" title="Inclusive/Exclusive scan algortihms. " alt="" coords="1402,88,1517,115"/>
+<area shape="rect" id="node17" href="$stencil_8hpp.html" title="Stencil convolution. " alt="" coords="1554,261,1680,288"/>
+<area shape="rect" id="node18" href="$vector__pointer_8hpp.html" title="Cast vex::vector to a raw pointer. " alt="" coords="1705,261,1881,288"/>
+<area shape="rect" id="node4" href="$fft_8hpp.html" title="Backend selector for FFT. " alt="" coords="101,261,200,288"/>
+</map>
